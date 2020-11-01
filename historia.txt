@@ -5,3 +5,5 @@ Le indicaremos a Git que queremos crear un nuevo repositorio para utilizar su si
 Recuerda que al ejecutar este comando (y de aquí en adelante) vamos a tener una nueva carpeta oculta llamada .git con toda la base de datos con cambios atómicos en nuestro proyecto.
 
 En camara parece alto pero la verdad no es alto.
+
+Hoy es el CEO de Platzi
