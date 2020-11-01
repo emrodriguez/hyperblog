@@ -1,8 +1,9 @@
-Crea un repositorio de Git y haz tu primer commit
+Esta es la historia de Freddy Vega
 
-Le indicaremos a Git que queremos crear un nuevo repositorio para utilizar su sistema de control de versiones. Solo debemos posicionarnos en la carpeta raíz de nuestro proyecto y ejecutar el comando git init.
+Freddy Vega tiene 33 años y nació en Colombia,
+viviendo en todo el mundo
 
-Recuerda que al ejecutar este comando (y de aquí en adelante) vamos a tener una nueva carpeta oculta llamada .git con toda la base de datos con cambios atómicos en nuestro proyecto.
+Hoy hablaremos de su historia.
 
 En camara parece alto pero la verdad no es alto.
 
